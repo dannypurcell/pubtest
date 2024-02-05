@@ -65156,7 +65156,7 @@ s=t.z
 return A.eD("Login",A.ei(A.cb(A.a([A.au("Welcome back",r,r,r,r,r,A.Q(a).p3.e,r,r,r),B.aDU,new A.f7(A.bfW(t.PG.a($.un().ns("settings",!1,s)),["promptConsent"],s),new A.b4F(q),r,r,t.lo)],t.p),B.t,B.bw,B.v),r,r),!0)}}
 A.b4F.prototype={
 $3(a,b,c){var s=A.a([B.aE6],t.nG),r=t.N
-r=b.EN(0,"promptConsent",!1)?A.a1(["prompt","consent"],r,r):A.v(r,r)
+r=b.EN(0,"promptConsent",!0)?A.a1(["prompt","consent"],r,r):A.v(r,r)
 return new A.Aw(s,!0,null,new A.b4D(),new A.b4E(),".default offline_access",r,null)},
 $S:518}
 A.b4D.prototype={
